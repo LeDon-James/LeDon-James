@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeDon-James, I am new to coding
+- 👋 Hi, I’m @LeDon-James, I am new to coding and still trying to wrap my head around the big picture concepts of coding...
 - 👀 I’m interested in coding design specifically creative aspects, as of now more interested in front-end design
 - 🌱 I’m currently learning HTML, CSS, and Javascript on Codecademy
 - 💞️ I’m looking to collaborate on fun projects as I learn
